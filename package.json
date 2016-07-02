@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/rtaum/NodeLab/issues"
   },
-  "homepage": "https://github.com/rtaum/NodeLab#readme"
+  "homepage": "https://github.com/rtaum/NodeLab#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "nodemon": "^1.9.2"
+  }
 }
