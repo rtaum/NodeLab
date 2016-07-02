@@ -1,0 +1,19 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "Node.js stuff testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtaum/NodeLab.git"
+  },
+  "author": "Artyom Avetisyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtaum/NodeLab/issues"
+  },
+  "homepage": "https://github.com/rtaum/NodeLab#readme"
+}
